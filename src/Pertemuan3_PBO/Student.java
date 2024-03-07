@@ -1,4 +1,4 @@
-package Pertemuan4_PBO;
+package Pertemuan3_PBO;
 
 public class Student {
 	 private String nrp;
