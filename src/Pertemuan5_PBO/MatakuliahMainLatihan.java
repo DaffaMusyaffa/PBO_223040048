@@ -12,7 +12,7 @@ public class MatakuliahMainLatihan {
         System.out.println(mk3.display());
 
         System.out.println("--- NILAI IPK ---");
-        double totalBobot = mk1.nilaiIndex() * mk1.getSks() + mk2.nilaiIndex() * mk2.getSks() + mk3.nilaiIndex() * mk3.getSks();
+double totalBobot = mk1.nilaiIndex() * mk1.getSks() + mk2.nilaiIndex() * mk2.getSks() + mk3.nilaiIndex() * mk3.getSks();
         int totalSks = mk1.getSks() + mk2.getSks() + mk3.getSks();
         double ipk = totalBobot / totalSks;
         String formattedIpk = String.format("%.2f", ipk);

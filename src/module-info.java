@@ -4,5 +4,5 @@
 /**
  * 
  */
-module PemogramanBerorientasiObjek_ {
+module PemogramanBerorientasiObjek {
 }
